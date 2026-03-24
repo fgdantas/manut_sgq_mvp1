@@ -35,6 +35,7 @@ O sistema deve permitir registrar manutenções corretivas com:
 - ação realizada
 - responsável
 - tempo parado
+- custo da corretiva
 
 ### RF05 - Histórico de manutenções
 O sistema deve permitir consultar o histórico das manutenções por equipamento.
